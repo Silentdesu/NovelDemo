@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ba4644be0d92d0f4f8190df926f2aad3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12651732992
+    m_Localized: <?bg=stairs>I don't know if it's true that Ai Hoshino trains in
+      this place<?action-click>, but I hope she's here.<?move-char>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157569130496
+    m_Localized: It's a pretty big building. I don't know how long it will take.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176942620672
+    m_Localized: <?move-char-outside>Even if she's not here, I'll look around local
+      stores...<?action-click> Huh?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 192948084736
+    m_Localized: <?move-char><waitfor=3>She's really here! And apparently she's on
+      a break<?action-click>. <?move-char>Is it okay if I go to the dance hall? I
+      need to get an autograph for a friend<?action-click>. Yes, for a friend...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212392878080
+    m_Localized: <?bg=dance-hall><?camera-focus>Ai Hoshino<?action-click>!<?anim-idle-focus>
+      Oh my god, sorry<?action-click>. Can you sign a poster?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232705892352
+    m_Localized: <?anim-idle-focus><?anim-talk>Oh! Of course<?action-click><?anim-stop-talk>!<?anim-talk>
+      Do you have a pen<?anim-stop-talk>?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250783342592
+    m_Localized: Yes! Yes I have. One second, the pen is in the backpack<?action-click>.
+      I can't believe it! I have to tell everyone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271461261312
+    m_Localized: <waitfor=1><?anim-talk>Uhm<?anim-stop-talk>...<waitfor=1><?camera-main><?anim-talk>Can
+      you keep quiet about this place<?anim-stop-talk><?action-click>? I<?anim-talk>
+      really like this hall, it's cozy here<?anim-stop-talk>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315967021056
+    m_Localized: <?anim-talk>Let this be our little secret<?anim-stop-talk>.<?anim-secret>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2700344958976
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318497646845952
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

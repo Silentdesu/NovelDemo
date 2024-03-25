@@ -1,0 +1,29 @@
+{
+    "name": "com.novel",
+    "rootNamespace": "Novel",
+    "references": [
+        "GUID:68765d262e2128e4ab49c983f3411946",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:1e113d3b5d77bc04eab508251483e8ff",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:84651a3751eca9349aac36a66bba901b"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WebGL",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
